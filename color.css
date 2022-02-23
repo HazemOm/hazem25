@@ -1,0 +1,120 @@
+h1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: "https://fonts.google.com/share?selection.family=Nunito%20Sans:wght@200";
+}
+h2 {
+    
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.font-labelnunito-sans {
+    font-family: "https://fonts.google.com/share?selection.family=Nunito%20Sans:wght@200";
+}
+.italicnunito-sans {
+    font-family: "https://fonts.google.com/share?selection.family=Nunito%20Sans:ital,wght@1,200";
+}
+.container {
+    border-bottom-color: rgb(162, 162, 166);
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-image-outset: 0;
+border-image-repeat: stretch
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(162, 162, 166);
+border-left-style: solid;
+border-left-width: 2px;
+border-right-color: rgb(162, 162, 166);
+border-right-style: solid;
+border-right-width: 2px;
+border-top-color: rgb(162, 162, 166);
+border-top-style: solid;
+border-top-width: 2px;
+display: block;
+font-family: "Nunito Sans", sans-serif;
+height: 352.625px;
+margin-bottom: 10px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+padding-bottom: 10px
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+width: 743.85px;
+height: 450px;
+}
+.cool-blue {
+    
+    background-color: #2d5dcc;
+    color: #fff;
+}
+.color-panel {
+    
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.pink {
+    
+    background-color: #d957d9;
+    color: #000;
+}
+.mint-green {
+    background-color: #4fe0b0;
+}
+.beige {
+    background-color: #efd9ca;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+.font-label {
+    
+    font-size: 20px;
+    text-decoration: underline;
+}
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+.body {
+    
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+}
+.text-panel h2 {
+    
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.regular-label {
+    font-family:"NunitoSans-Regular.ttf";
+}
+.bold {
+    font-family: "NunitoSans-Bold.ttf";
+    font-weight: 700;
+}
+.italic {
+    font-family: "NunitoSans-Italic.ttf";
+}
